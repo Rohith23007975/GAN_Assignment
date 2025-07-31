@@ -1,4 +1,4 @@
-# GANs for 2D Data & Sketch Generation 🎨
+# GANs for 2D Data & Sketch Generation
 
 This repository contains two mini-projects that demonstrate the application of Generative Adversarial Networks (GANs) in generating:
 
@@ -7,7 +7,7 @@ This repository contains two mini-projects that demonstrate the application of G
 
 ---
 
-## 🧠 Overview
+## Overview
 
 This project is part of an academic assignment exploring how GANs can learn and synthesize data patterns through adversarial training. It involves:
 
